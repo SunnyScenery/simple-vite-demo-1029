@@ -2,7 +2,7 @@
 
 ---
 
-Trigger Count -> 5
+Trigger Count -> 6
 
 ---
 
